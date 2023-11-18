@@ -16,3 +16,4 @@ https://laravel.com/docs/10.x/installation
 7. "php artisan serve"
 8. Open showed IP
 
+![image](https://github.com/Ibets/RPLProject/assets/91409909/b32a3869-c3fb-4f5a-89a8-0780235611d4)
